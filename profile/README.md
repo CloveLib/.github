@@ -7,7 +7,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Modding-62B47A?style=flat-square)
 
-**CloveLib Studios** is a shared ecosystem of libraries, frameworks, and tooling used across multiple game modding platforms and related services.
 This organization hosts all official CloveLib Studios projects, updates, and infrastructure.
 
 ---
