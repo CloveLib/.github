@@ -1,11 +1,10 @@
 # 🌿 CloveLib Studios
-
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Modding-62B47A?style=flat-square)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
 This organization hosts all official CloveLib Studios projects, updates, and infrastructure.
 
@@ -14,7 +13,6 @@ This organization hosts all official CloveLib Studios projects, updates, and inf
 ## 📦 Projects
 
 ### ⛏ Minecraft
-
 - **Paper / Spigot Plugins**  
   👉 [CloveLibPlugins](https://github.com/CloveLib/CloveLibPlugins)
 
@@ -25,14 +23,12 @@ This organization hosts all official CloveLib Studios projects, updates, and inf
   👉 [CloveLibForge](https://github.com/CloveLib/CloveLibForge)
 
 ### 🧪 Other Games & Platforms
-
 - **Hytale Projects**  
   👉 [CloveLibHytale](https://github.com/CloveLib/CloveLibHytale)
 
 - **Others Coming Soon**
 
 ### 🌐 Web & Services
-
 - **Official Documentation Website**  
   🌍 https://clovelib.win  
   📦 Source: [Studios](https://github.com/CloveLib/Studios)
@@ -41,22 +37,19 @@ This organization hosts all official CloveLib Studios projects, updates, and inf
   👉 [ClovePluralLinking](https://github.com/CloveLib/ClovePluralLinking)
 
 ### 🔧 Tools
-
-- **FancyVerteiler Tools**
+- **FancyVerteiler Tools**  
   👉 [FancyVerteiler-Tools](https://github.com/CloveLib/FancyVerteiler-Tools)
 
-- **Curseforge Versioner**
+- **Curseforge Versioner**  
   👉 [CFVersioner](https://github.com/CloveLib/CFVersioner)
 
 ---
 
 ## 🤝 Contributing
-
 Issues, pull requests, and discussions are welcome across all repositories.  
 Please review individual project guidelines before contributing.
 
 ---
 
 ## 📝 License
-
 All CloveLib Studios projects are licensed under the **MIT License**.
