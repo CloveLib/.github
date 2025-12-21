@@ -40,6 +40,14 @@ This organization hosts all official CloveLib Studios projects, updates, and inf
 - **ClovePluralLinking Web**  
   👉 [ClovePluralLinking](https://github.com/CloveLib/ClovePluralLinking)
 
+### 🔧 Tools
+
+- **FancyVerteiler Tools**
+  👉 [FancyVerteiler-Tools](https://github.com/CloveLib/FancyVerteiler-Tools)
+
+- **Curseforge Versioner**
+  👉 [CFVersioner](https://github.com/CloveLib/CFVersioner)
+
 ---
 
 ## 🤝 Contributing
