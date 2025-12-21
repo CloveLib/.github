@@ -17,14 +17,14 @@ This organization hosts all official CloveLib Studios projects, updates, and inf
   👉 [![clp](https://img.shields.io/badge/github-CloveLibPlugins-blue?logo=github)](https://github.com/CloveLib/CloveLibPlugins)
 
 - **Fabric Mods**  
-  👉 [![clf](https://img.shields.io/badge/github-CloveLibFabric-blue?logo=github)](https://github.com/CloveLib/CloveLibFabric)
+  👉 [![clf](https://img.shields.io/badge/github-CloveLibFabric-blue?logo=github)](https://github.com/CloveLib/CloveLibFabric) ![InDev](https://img.shields.io/badge/%F0%9F%9A%A7%20Warning-In%20Dev-e9658d?style=flat)
 
 - **Forge Mods**  
-  👉 [![clf](https://img.shields.io/badge/github-CloveLibForge-blue?logo=github)](https://github.com/CloveLib/CloveLibForge)
+  👉 [![clf](https://img.shields.io/badge/github-CloveLibForge-blue?logo=github)](https://github.com/CloveLib/CloveLibForge) ![InDev](https://img.shields.io/badge/%F0%9F%9A%A7%20Warning-In%20Dev-e9658d?style=flat)
 
 ### 🧪 Other Games & Platforms
 - **Hytale Projects**  
-  👉 [![cfv](https://img.shields.io/badge/github-CloveLibHytale-blue?logo=github)](https://github.com/CloveLib/CloveLibHytale)
+  👉 [![cfv](https://img.shields.io/badge/github-CloveLibHytale-blue?logo=github)](https://github.com/CloveLib/CloveLibHytale) ![InDev](https://img.shields.io/badge/%F0%9F%9A%A7%20Warning-In%20Dev-e9658d?style=flat)
 
 - **Others Coming Soon**
 
@@ -34,7 +34,7 @@ This organization hosts all official CloveLib Studios projects, updates, and inf
   📦 Source: [![source](https://img.shields.io/badge/github-Studios-blue?logo=github)](https://github.com/CloveLib/Studios)
 
 - **ClovePluralLinking Web**  
-  👉 [![cpl](https://img.shields.io/badge/github-ClovePluralLinking-blue?logo=github)](https://github.com/CloveLib/ClovePluralLinking)
+  👉 [![cpl](https://img.shields.io/badge/github-ClovePluralLinking-blue?logo=github)](https://github.com/CloveLib/ClovePluralLinking) ![InDev](https://img.shields.io/badge/%F0%9F%9A%A7%20Warning-In%20Dev-e9658d?style=flat)
 
 ### 🔧 Tools
 - **FancyVerteiler Tools**  
