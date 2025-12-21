@@ -41,7 +41,7 @@ This organization hosts all official CloveLib Studios projects, updates, and inf
   👉 [![fvt](https://img.shields.io/badge/github-FancyVerteiler--Tools-blue?logo=github)](https://github.com/CloveLib/FancyVerteiler-Tools)
 
 - **Curseforge Versioner**  
-  👉 [![cfv](https://img.shields.io/badge/github-CFVersioner-blue?logo=github)](https://github.com/CloveLib/CFVersioner) ![InDev](https://img.shields.io/badge/%F0%9F%9A%A7%20Warning-In%20Dev-e9658d?style=flat)
+  👉 [![cfv](https://img.shields.io/badge/github-CForgeVersioner-blue?logo=github)](https://github.com/CloveLib/CForgeVersioner) ![InDev](https://img.shields.io/badge/%F0%9F%9A%A7%20Warning-In%20Dev-e9658d?style=flat)
 
 ---
 
