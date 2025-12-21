@@ -1,10 +1,10 @@
 # 🌿 CloveLib Studios
-![License](https://img.shields.io/badge/⚖%EF%B8%8F%20License-MIT-green?labelColor=grey&style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?labelColor=grey&style=flat-square)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
-![Minecraft](https://img.shields.io/badge/Minecraft-Modding-62B47A?style=flat-square)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white&style=flat-square)
+![License](https://img.shields.io/badge/⚖%EF%B8%8F%20License-MIT-green?labelColor=grey&style=flat)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?labelColor=grey&style=flat)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Minecraft](https://img.shields.io/badge/Minecraft-Modding-62B47A?style=flat)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white&style=flat)
 
 This organization hosts all official CloveLib Studios projects, updates, and infrastructure.
 
