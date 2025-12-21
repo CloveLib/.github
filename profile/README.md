@@ -14,34 +14,34 @@ This organization hosts all official CloveLib Studios projects, updates, and inf
 
 ### ⛏ Minecraft
 - **Paper / Spigot Plugins**  
-  👉 [CloveLibPlugins](https://github.com/CloveLib/CloveLibPlugins)
+  👉 [![clp](https://img.shields.io/badge/github-CloveLibPlugins-blue?logo=github)](https://github.com/CloveLib/CloveLibPlugins)
 
 - **Fabric Mods**  
-  👉 [CloveLibFabric](https://github.com/CloveLib/CloveLibFabric)
+  👉 [![clf](https://img.shields.io/badge/github-CloveLibFabric-blue?logo=github)](https://github.com/CloveLib/CloveLibFabric)
 
 - **Forge Mods**  
-  👉 [CloveLibForge](https://github.com/CloveLib/CloveLibForge)
+  👉 [![clf](https://img.shields.io/badge/github-CloveLibForge-blue?logo=github)](https://github.com/CloveLib/CloveLibForge)
 
 ### 🧪 Other Games & Platforms
 - **Hytale Projects**  
-  👉 [CloveLibHytale](https://github.com/CloveLib/CloveLibHytale)
+  👉 [![cfv](https://img.shields.io/badge/github-CloveLibHytale-blue?logo=github)](https://github.com/CloveLib/CloveLibHytale)
 
 - **Others Coming Soon**
 
 ### 🌐 Web & Services
 - **Official Documentation Website**  
   🌍 https://clovelib.win  
-  📦 Source: [Studios](https://github.com/CloveLib/Studios)
+  📦 Source: [![source](https://img.shields.io/badge/github-Studios-blue?logo=github)](https://github.com/CloveLib/Studios)
 
 - **ClovePluralLinking Web**  
-  👉 [ClovePluralLinking](https://github.com/CloveLib/ClovePluralLinking)
+  👉 [![cpl](https://img.shields.io/badge/github-ClovePluralLinking-blue?logo=github)](https://github.com/CloveLib/ClovePluralLinking)
 
 ### 🔧 Tools
 - **FancyVerteiler Tools**  
-  👉 [FancyVerteiler-Tools](https://github.com/CloveLib/FancyVerteiler-Tools)
+  👉 [![fvt](https://img.shields.io/badge/github-FancyVerteiler--Tools-blue?logo=github)](https://github.com/CloveLib/FancyVerteiler-Tools)
 
 - **Curseforge Versioner**  
-  👉 [CFVersioner](https://github.com/CloveLib/CFVersioner)
+  👉 [![cfv](https://img.shields.io/badge/github-CFVersioner-blue?logo=github)](https://github.com/CloveLib/CFVersioner) ![InDev](https://img.shields.io/badge/%F0%9F%9A%A7%20Warning-In%20Dev-e9658d?style=flat)
 
 ---
 
