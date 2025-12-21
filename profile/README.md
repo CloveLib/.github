@@ -1,9 +1,9 @@
 # 🌿 CloveLib Studios
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-Modding-62B47A?style=flat-square)
+![License](https://img.shields.io/badge/⚖%EF%B8%8F%20License-MIT-green?labelColor=grey)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?labelColor=grey)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Minecraft](https://img.shields.io/badge/Minecraft-Modding-62B47A)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
 This organization hosts all official CloveLib Studios projects, updates, and infrastructure.
